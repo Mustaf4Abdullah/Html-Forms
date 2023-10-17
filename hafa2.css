@@ -1,0 +1,8 @@
+h1{
+    background-color: black;
+    font-size: xx-large;
+    padding: 10px;/* iç boşluğu ayarlamak */
+    padding-left: 10px;
+    padding-bottom: 2px;
+    margin: 20px;/* dış boşluğu ayarlamak */
+}
